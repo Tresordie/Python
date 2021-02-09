@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a48382b2-f5a7-4309-a68f-ef4bbc1040f3" name="Default Changelist" comment="keyword搜索" />
+    <list default="true" id="a48382b2-f5a7-4309-a68f-ef4bbc1040f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/list2/list_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/list2/list_function.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612897857039</updated>
       <workItem from="1612897859120" duration="1793000" />
+      <workItem from="1612901941163" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="keyword搜索">
       <created>1612898084740</created>
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612898638591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="list_functions">
+      <created>1612901980085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612901980085</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,10 +125,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="keyword搜索" />
-    <option name="LAST_COMMIT_MESSAGE" value="keyword搜索" />
+    <MESSAGE value="list_functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="list_functions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3093" y="207" key="FileChooserDialogImpl" timestamp="1612899593439">
